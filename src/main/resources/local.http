@@ -1,0 +1,11 @@
+### 헬스체크
+GET http://localhost:8081/health
+
+### JSON POST 예시
+POST http://localhost:8081/api/v1/items
+Content-Type: application/json
+
+{
+  "name": "foo",
+  "qty": 3
+}

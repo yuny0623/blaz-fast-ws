@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="744cbf6b-ea0f-4fe1-bcad-4e50eb60cb5f" name="변경" comment="" />
+    <list default="true" id="744cbf6b-ea0f-4fe1-bcad-4e50eb60cb5f" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/dev-log/day02.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev-log/로드맵.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/EventLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Handler.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HttpParser.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Logger.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoggerConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoggerLevel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MonitorThread.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Router.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ServerEngine.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ThreadPoolConfig.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/local.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +34,24 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="320o8Cu6gKoQIAwkDgH9TJFIAmk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,13 +60,34 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.blaz-fast-ws 빌드.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Dev/springboot신규프로젝트/dev/blaz-fast-ws/src/main/kotlin/Main.kt"
+    "onboarding.tips.debug.path": "C:/Users/ASUS/Desktop/Dev/springboot신규프로젝트/dev/blaz-fast-ws/src/main/kotlin/Main.kt",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.razelo.MainKt" />
+      <module name="blaz-fast-ws.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -46,16 +98,5 @@
       <updated>1756566691249</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Main.kt</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
